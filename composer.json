@@ -1,0 +1,16 @@
+{
+    "name": "fabrizioquadro/importarxml",
+    "description": "Pacote de importação de xml para a empresa Diammond",
+    "authors": [
+        {
+            "name": "fabrizioquadro",
+            "email": "fabrizio.quadro@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "fabrizioquadro\\importarxml\\": "src/"
+        }
+    }
+}
